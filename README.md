@@ -1,2 +1,5 @@
-# competitiveCS
-Algorithms and Problems that I've written during my Competitive Coding journey
+# CompetitiveCS
+Algorithms and Problem repository for my competitive coding journey.
+
+Algorithms
+1. Sparse Table
