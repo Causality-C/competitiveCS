@@ -6,3 +6,5 @@ Algorithms
 
 Contests:
 1. Google Kickstart 2020 Round A
+2. University of Texas Programming Contest 4/10/20
+
